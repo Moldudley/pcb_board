@@ -4335,10 +4335,6 @@
                     {
                       "name": "Shape 1",
                       "ioValue": null
-                    },
-                    {
-                      "name": "Shape 2",
-                      "ioValue": null
                     }
                   ]
                 }
@@ -4353,11 +4349,6 @@
                   "ap2Name": "geometry",
                   "ap1ID": "id-17",
                   "ap2ID": "id-18"
-                },
-                {
-                  "ap2Name": "Shape 2",
-                  "ap1ID": "id-18",
-                  "ap2ID": "id-27"
                 },
                 {
                   "ap2Name": "geometry",
@@ -4466,7 +4457,8 @@
                   "ioValues": [
                     {
                       "name": "diameter",
-                      "ioValue": 58
+                      "ioValue": 100,
+                      "currentEquation": "100"
                     }
                   ]
                 },
@@ -4482,7 +4474,8 @@
                     },
                     {
                       "name": "xDist",
-                      "ioValue": 41
+                      "ioValue": 41,
+                      "currentEquation": "41"
                     },
                     {
                       "name": "yDist",
@@ -5865,7 +5858,7 @@
                     {
                       "name": "Shape 2",
                       "ioValue": {
-                        "geometry": "move-circle-29-41--100-0",
+                        "geometry": "move-circle-50-41--100-0",
                         "dimension": "2D",
                         "tags": [],
                         "plane": {
