@@ -20,7 +20,7 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.1,
+      "x": 0.2,
       "y": 0.5,
       "uniqueID": "id-4",
       "name": "Electronics",
@@ -2037,7 +2037,7 @@
             {
               "atomType": "GitHubMolecule",
               "x": 0.1,
-              "y": 0.8,
+              "y": 0.9,
               "uniqueID": "id-3314",
               "name": "Round_End_Arc",
               "ioValues": [
